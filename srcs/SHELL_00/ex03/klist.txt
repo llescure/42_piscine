@@ -1,0 +1,6 @@
+Credentials cache: API:D3BCD258-19F3-4F55-9F27-A96A7409E961
+        Principal: llescure@42.FR
+
+  Issued                Expires               Principal
+Aug  5 11:31:54 2020  Aug 12 11:31:54 2020  krbtgt/42.FR@42.FR
+Aug  5 11:31:54 2020  Aug 12 11:31:54 2020  HTTP/student-storage-2.42.fr@42.FR
