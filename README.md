@@ -2,10 +2,10 @@
 
 42 piscine in August 2020 on Paris campus.
 
-SHELL_00 :white_check_mark: :white_check_mark: 
-SHELL_01 :white_check_mark: 
-C_00 :white_check_mark: 
-C_01 :white_check_mark: 
+SHELL_00 :white_check_mark: :white_check_mark: \n
+SHELL_01 :white_check_mark: \n
+C_00 :white_check_mark: \n
+C_01 :white_check_mark: \n
 C_02 :white_check_mark: 
 C_03 :white_check_mark: 
 C_04 :white_check_mark: 
